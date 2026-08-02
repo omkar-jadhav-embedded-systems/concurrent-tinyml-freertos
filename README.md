@@ -20,8 +20,7 @@ This repository serves as a proof-of-concept for migrating from a sequential sup
 
 ## 🏗️ System Architecture
 
-*(Add your infographic image to your repo, then update the file name below to display it here)*
-![Two TinyML Models. One MCU Core.](image.png)
+![Two TinyML Models. One MCU Core.](https://github.com/omkar-jadhav-embedded-systems/concurrent-tinyml-freertos/blob/main/2_ML_1_Core.png)
 
 ### Key Architectural Features:
 * **Concurrent Execution:** Replaced blocking superloop logic with independent, prioritized FreeRTOS tasks.
